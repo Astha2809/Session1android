@@ -1,0 +1,3 @@
+rootProject.name='Session1android'
+include ':app'
+include ':app:login'
